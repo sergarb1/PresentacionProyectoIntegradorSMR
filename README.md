@@ -5,6 +5,7 @@ Este repositorio incluyé los siguientes materiales
 
 * Ejemplo de enunciado
 * Ejemplo de rúbrica
+* Presentación
 
 Enlaces interesantes:
 
