@@ -3,10 +3,6 @@ Presentacion: Proyecto integrador CFGM 1º SMR (Sistemas Microinformáticos y Re
 
 Este repositorio incluyé los siguientes materiales
 
-* Ejemplo de enunciado
-* Ejemplo de rúbrica
 * Presentación
-
-Enlaces interesantes:
-
-Bla bla bla
+* Ejemplo de enunciado
+* Ejemplo de rúbrica de evaluación (Pendiente de subida, visitanos en unos días )
