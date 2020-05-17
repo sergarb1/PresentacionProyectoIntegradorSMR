@@ -5,4 +5,4 @@ Este repositorio incluyé los siguientes materiales
 
 * Presentación
 * Ejemplo de enunciado
-* Ejemplo de rúbrica de evaluación (Pendiente de subida, visitanos en unos días )
+* Ejemplo de rúbrica de evaluación
